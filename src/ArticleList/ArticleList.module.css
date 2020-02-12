@@ -1,0 +1,6 @@
+.container {
+    background: darkgrey;
+    border: 2px dashed #6c6c6c;
+    padding: 1.5rem;
+    margin: 1.5rem;
+}

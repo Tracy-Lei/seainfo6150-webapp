@@ -1,0 +1,17 @@
+.body {
+    background: white;
+    border: 1px solid #d20000;
+    margin-bottom: 1.5rem;
+}
+
+.header {
+    margin: -1rem auto;
+    color: #d20000;
+    font-size: 30px;
+}
+
+.time{
+    font-weight: bold;
+    font-size: 14px;
+}
+
