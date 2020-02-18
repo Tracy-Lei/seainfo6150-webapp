@@ -4,4 +4,6 @@
     margin: 20px;
     background: #999;
     border: 1px dashed #666;
+    border-radius: 10px;
+    box-shadow: -2px 10px 15px #516166;
 }
