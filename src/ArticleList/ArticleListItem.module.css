@@ -1,11 +1,11 @@
 .container {
     display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
     background-image: linear-gradient(to right, #cc6561, white 20%);
     border: 1px solid #c00;
     border-radius: 10px;
-    margin-bottom: 20px;
     padding: 10px;
-    position: relative;
     box-shadow: 0px 8px 10px 2px #516166;
 }
 
@@ -15,14 +15,14 @@
     margin: .5rem 0;
 }
 
+
 .pubDate {
     font-weight: bold;
     font-size: smaller;
 }
 
 .articleContext{
-    margin-left: 1.5rem;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
 }
 
 

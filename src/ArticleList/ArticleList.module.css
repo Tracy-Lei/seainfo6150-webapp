@@ -1,9 +1,16 @@
 .container {
-    list-style: none;
-    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 10px;
     margin: 20px;
     background: #999;
     border: 1px dashed #666;
     border-radius: 10px;
     box-shadow: -2px 10px 15px #516166;
+}
+
+.row{
+    padding: 15px;
+    display: flex;
+    flex-flow: row wrap;
 }

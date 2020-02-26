@@ -1,4 +1,5 @@
 .articleImg{
+    float: left;
     margin: 9px;
     width: 9rem;
     height: 5rem;
